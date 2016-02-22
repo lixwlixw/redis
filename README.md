@@ -1,0 +1,2 @@
+# redis
+FROM sameersbn/redis
